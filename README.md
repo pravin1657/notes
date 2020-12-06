@@ -2,7 +2,7 @@
 description: javascript 1
 ---
 
-# Initial page
+# firstpage
 
 ## 1.keywords limits
 
